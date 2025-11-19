@@ -52,7 +52,7 @@ Currently co-founding **Golden Bear Labs**, developing full-stack web and mobile
 **Tech:** Next.js, React.js, TypeScript, Firebase, Machine Learning  
 Developed a full-stack web and mobile application that predicts MLB The Show player rating changes using ML algorithms and real-world baseball performance data. Built predictive models achieving **96% accuracy**, implemented real-time data pipelines integrating multiple MLB APIs, and deployed a scalable application serving **300+ users** with 1000+ daily predictions.
 
-### [NFL Prediction Model](https://github.com/ethancarter7/nfl-predictions)) | Sports Analytics
+### [NFL Prediction Model](https://github.com/ethancarter7/nfl-predictions) | Sports Analytics
 **Tech:** Python, Scikit-learn, Pandas, NumPy  
 Built an end-to-end machine learning model achieving **82% accuracy** on NFL game predictions. Processed 5+ years of play-by-play data, engineered 10+ predictive features, implemented Random Forest classification with cross-validation, and created automated data preprocessing pipelines handling 370+ raw features.
 
