@@ -1,6 +1,6 @@
 # Hi, I'm Ethan Carter 👋
 
-Computer Science student at the University of Alberta with an AI specialization. I'm passionate about **data science, machine learning, and sports analytics**—building intelligent systems that solve real-world problems.
+Computer Science student at the University of Alberta with an AI specialization. I'm passionate about **data science, machine learning, and sports analytics**.
 
 Currently co-founding **Golden Bear Labs**, developing full-stack web and mobile applications with machine learning integrations.
 
