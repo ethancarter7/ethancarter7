@@ -48,7 +48,7 @@ Currently co-founding **Golden Bear Labs**, developing full-stack web and mobile
 
 ## 📊 Featured Projects
 
-### [DiamondInsights](https://github.com/goldenbearlabs/diamondinsights)) | MLB The Show Analytics
+### [DiamondInsights](https://github.com/goldenbearlabs/diamondinsights) | MLB The Show Analytics
 **Tech:** Next.js, React.js, TypeScript, Firebase, Machine Learning  
 Developed a full-stack web and mobile application that predicts MLB The Show player rating changes using ML algorithms and real-world baseball performance data. Built predictive models achieving **96% accuracy**, implemented real-time data pipelines integrating multiple MLB APIs, and deployed a scalable application serving **300+ users** with 1000+ daily predictions.
 
