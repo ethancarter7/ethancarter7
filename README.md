@@ -10,7 +10,7 @@ Currently co-founding **Golden Bear Labs**, developing full-stack web and mobile
 
 - **Machine Learning & AI**: Predictive modeling, feature engineering, and deploying ML systems at scale
 - **Sports Analytics**: Leveraging data to uncover insights in baseball and football
-- **Full-Stack Development**: Building scalable applications that combine elegant UIs with robust backends
+- **Software Engineering**: Designing, implementing, and testing **scalable software systems** across the full development lifecycle.
 - **Data Engineering**: Database design, ETL pipelines, and data quality management
 
 ---
