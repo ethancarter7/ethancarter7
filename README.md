@@ -2,8 +2,6 @@
 
 Computer Science student at the University of Alberta with an AI specialization. I'm passionate about **data science, software engineering, data engineering, machine learning, and sports analytics**.
 
-Currently co-founding **Golden Bear Labs**, developing full-stack web and mobile applications with machine learning integrations.
-
 ---
 
 ## 🎯 Interests
@@ -24,7 +22,6 @@ Currently co-founding **Golden Bear Labs**, developing full-stack web and mobile
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 **Data Science & ML:**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
