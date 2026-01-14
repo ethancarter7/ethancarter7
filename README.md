@@ -40,6 +40,8 @@ Computer Science student at the University of Alberta with an AI specialization.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
@@ -48,7 +50,7 @@ Computer Science student at the University of Alberta with an AI specialization.
 ## Featured Projects
 
 ### [DiamondInsights](https://github.com/goldenbearlabs/diamondinsights) | MLB The Show Analytics
-**Tech:** Next.js, React.js, TypeScript, PostgreSQL, Machine Learning, FastAPI
+**Tech:** Next.js, React.js, TypeScript, PostgreSQL, Machine Learning, FastAPI, Docker
 Assisted in the development of a full-stack web and mobile application that predicts MLB The Show player rating changes using ML algorithms and real-world baseball performance data. Built predictive models achieving **96% accuracy**, implemented real-time data pipelines integrating multiple MLB APIs, and deployed a scalable application serving **300+ users** with 1000+ daily predictions.
 
 
