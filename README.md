@@ -96,10 +96,11 @@ Facilitated engaging coding sessions for students, guided projects, and provided
 
 ---
 
-## Certifications
+## Certifications and Achievements
 
 - Machine Learning with Python (IBM Online, 2025)
 - Introduction to C++ (Codecademy, 2025)
+- ![LeetCode SQL 50](https://img.shields.io/badge/Solved-SQL_50-44cc11?style=flat&logo=leetcode&logoColor=white)
 
 ---
 
