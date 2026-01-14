@@ -56,6 +56,7 @@ Assisted in the development of a full-stack web and mobile application that pred
 
 
 ### [MLB Walk-Up Song Recommendation Engine](https://github.com/ethancarter7/mlb_walkup_song_model)
+**Tech Stack:** Python, Pandas, Scipy (Euclidean Distance), Matplotlib  
 **Goal:** Determine if audio features (Tempo, Energy, Valence) correlate with batting performance and build a tool to optimize player walk-up music.
 
 **The Main Idea:**
@@ -66,9 +67,20 @@ Initial analysis revealed that audio features have a weak global correlation ($r
 * **Feature Engineering:** Utilized `wRC+` (Weighted Runs Created Plus) as the sole performance target to normalize for park factors and league averages.
 * **Model Iteration:** Validated a "Baseline" model (Arithmetic Mean) against a "Weighted Feature" model. While weighting features by correlation altered results for 89% of players, the Baseline was selected for production to avoid overfitting to weak signals.
 
-**Tech Stack:** Python, Pandas, Scipy (Euclidean Distance), Matplotlib  
 
-[Read my Case Study](https://github.com/ethancarter7/mlb_walkup_song_model/blob/main/write_up_ethan_carter.pdf)
+
+[Read my Case Study](https://github.com/ethancarter7/mlb_walkup_song_model/blob/main/write_up_ethan_carter.pdf)  
+
+### ELotto - Android Event Lottery System
+**Tech Stack:** Java, Android SDK, Firebase Firestore, Git  
+**Goal:** Build a fair event registration platform for high-demand events using a lottery-based waitlist system.
+
+**Key Technical Implementations:**
+* **MVC Architecture:** Engineered a strict **Model-View-Controller** pattern, utilizing Fragments for the UI and decoupling business logic to ensure testability.
+* **Asynchronous Data Layer:** Designed a custom **Repository API** to abstract Firebase Firestore interactions. Implemented callback-based asynchronous execution to handle CRUD operations without blocking the main UI thread.
+* **Agile Team Leadership:** Lead a 6-person Agile team using **Git workflows** (Feature Branching, Pull Requests, and Code Reviews) to manage merge conflicts and code quality.
+
+*Note: This project is in a private university repository.*
 
 ---
 
