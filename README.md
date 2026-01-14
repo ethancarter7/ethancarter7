@@ -4,7 +4,7 @@ Computer Science student at the University of Alberta with an AI specialization.
 
 ---
 
-## 🎯 Interests
+## Interests
 
 - **Machine Learning & AI**: Predictive modeling, feature engineering, and deploying ML systems at scale
 - **Sports Analytics**: Leveraging data to uncover insights in baseball and other sports.
@@ -12,7 +12,7 @@ Computer Science student at the University of Alberta with an AI specialization.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -45,7 +45,7 @@ Computer Science student at the University of Alberta with an AI specialization.
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### [DiamondInsights](https://github.com/goldenbearlabs/diamondinsights) | MLB The Show Analytics
 **Tech:** Next.js, React.js, TypeScript, PostgreSQL, Machine Learning, FastAPI
@@ -69,7 +69,7 @@ Initial analysis revealed that audio features have a weak global correlation ($r
 
 ---
 
-## 🎓 University Coursework
+## University Coursework
 
 - **Machine Learning** – Supervised and unsupervised learning, model evaluation, hyperparameter tuning
 - **Reinforcement Learning** – Policy gradient methods, Q-learning, Markov decision processes
@@ -81,7 +81,7 @@ Initial analysis revealed that audio features have a weak global correlation ($r
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Software Engineer Intern | Buildify** *(Jan. 2026 - Present)*
 
@@ -93,14 +93,14 @@ Facilitated engaging coding sessions for students, guided projects, and provided
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Machine Learning with Python (IBM Online, 2025)
 - Introduction to C++ (Codecademy, 2025)
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - **Email:** ethancarter72005@gmail.com
 - **LinkedIn:** [[linkedin.com/in/ethan-carter](https://www.linkedin.com/in/ethan-carter-811974262/)]
