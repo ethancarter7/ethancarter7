@@ -38,6 +38,7 @@ Computer Science student at the University of Alberta with an AI specialization.
 
 **Tools & Platforms:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
@@ -48,8 +49,10 @@ Computer Science student at the University of Alberta with an AI specialization.
 ## 📊 Featured Projects
 
 ### [DiamondInsights](https://github.com/goldenbearlabs/diamondinsights) | MLB The Show Analytics
-**Tech:** Next.js, React.js, TypeScript, PostgreSQL, Machine Learning  
-Developed a full-stack web and mobile application that predicts MLB The Show player rating changes using ML algorithms and real-world baseball performance data. Built predictive models achieving **96% accuracy**, implemented real-time data pipelines integrating multiple MLB APIs, and deployed a scalable application serving **300+ users** with 1000+ daily predictions.
+**Tech:** Next.js, React.js, TypeScript, PostgreSQL, Machine Learning, FastAPI
+Assisted in the development of a full-stack web and mobile application that predicts MLB The Show player rating changes using ML algorithms and real-world baseball performance data. Built predictive models achieving **96% accuracy**, implemented real-time data pipelines integrating multiple MLB APIs, and deployed a scalable application serving **300+ users** with 1000+ daily predictions.
+
+
 
 ### [NFL Prediction Model](https://github.com/ethancarter7/nfl-predictions) | Sports Analytics
 **Tech:** Python, Scikit-learn, Pandas, NumPy  
