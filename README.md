@@ -53,7 +53,7 @@ Computer Science student at the University of Alberta with an AI specialization.
 Assisted in the development of a full-stack web and mobile application that predicts MLB The Show player rating changes using ML algorithms and real-world baseball performance data. Built predictive models achieving **96% accuracy**, implemented real-time data pipelines integrating multiple MLB APIs, and deployed a scalable application serving **300+ users** with 1000+ daily predictions.
 
 
-### MLB Walk-Up Song Recommendation Engine
+### [MLB Walk-Up Song Recommendation Engine](https://github.com/ethancarter7/mlb_walkup_song_model)
 **Goal:** Determine if audio features (Tempo, Energy, Valence) correlate with batting performance and build a tool to optimize player walk-up music.
 
 **The Pivot:**
@@ -65,7 +65,7 @@ Initial analysis revealed that audio features have a weak global correlation ($r
 * **Model Iteration:** Validated a "Baseline" model (Arithmetic Mean) against a "Weighted Feature" model. While weighting features by correlation altered results for 89% of players, the Baseline was selected for production to avoid overfitting to weak signals.
 
 **Tech Stack:** Python, Pandas, Scipy (Euclidean Distance), Matplotlib
-**View the Project:** [📂 Link to Project Folder]([walkup_song_model.ipynb](https://github.com/ethancarter7/mlb_walkup_song_model/blob/main/walkup_song_model.ipynb)) | [📄 Read the Case Study]([./mlb_walkup_song_engine/write_up_ethan_carter.pdf](https://github.com/ethancarter7/mlb_walkup_song_model/blob/main/write_up_ethan_carter.pdf))
+**📄 [Read my Case Study](https://github.com/ethancarter7/mlb_walkup_song_model/blob/main/write_up_ethan_carter.pdf)
 ---
 
 ## 🎓 University Coursework
