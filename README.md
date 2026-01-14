@@ -1,15 +1,14 @@
 # Hi, I'm Ethan Carter 👋
 
-Computer Science student at the University of Alberta with an AI specialization. I'm passionate about **data science, software engineering, data engineering, machine learning, and sports analytics**.
+Computer Science student at the University of Alberta with an AI specialization. I'm passionate about **data science, software engineering, machine learning/reinforcement learning, and sports analytics**.
 
 ---
 
 ## 🎯 Interests
 
 - **Machine Learning & AI**: Predictive modeling, feature engineering, and deploying ML systems at scale
-- **Sports Analytics**: Leveraging data to uncover insights in baseball and football
+- **Sports Analytics**: Leveraging data to uncover insights in baseball and other sports.
 - **Software Engineering**: Designing, implementing, and testing **scalable software systems** across the full development lifecycle.
-- **Data Engineering**: Database design, ETL pipelines, and data quality management
 
 ---
 
@@ -56,7 +55,7 @@ Assisted in the development of a full-stack web and mobile application that pred
 ### [MLB Walk-Up Song Recommendation Engine](https://github.com/ethancarter7/mlb_walkup_song_model)
 **Goal:** Determine if audio features (Tempo, Energy, Valence) correlate with batting performance and build a tool to optimize player walk-up music.
 
-**The Pivot:**
+**The Main Idea:**
 Initial analysis revealed that audio features have a weak global correlation ($r < 0.15$) with objective performance metrics (`wRC+`). Instead of forcing a linear regression model, I pivoted to a **Demographic-Based Recommendation Engine**.
 * **Logic:** If specific audio profiles correlate with success for a *specific demographic* (e.g., "Young Dominican Outfielders"), similar players might benefit from mimicking that profile.
 
@@ -84,6 +83,8 @@ Initial analysis revealed that audio features have a weak global correlation ($r
 
 ## 💼 Experience
 
+**Software Engineer Intern | Buildify** *(Jan. 2026 - Present)*
+
 **Co-Founder | Golden Bear Labs LLC** *(Jul. 2025 – Present)*  
 Co-founded a software development company building subscription-based web and mobile applications. Lead product development from concept to deployment, implementing ML integrations and user-centric design principles.
 
@@ -108,4 +109,3 @@ Facilitated engaging coding sessions for students, guided projects, and provided
 
 ---
 
-*Always interested in discussing sports analytics, machine learning applications, and cool projects. Feel free to reach out!*
