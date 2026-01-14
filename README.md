@@ -65,7 +65,8 @@ Initial analysis revealed that audio features have a weak global correlation ($r
 * **Model Iteration:** Validated a "Baseline" model (Arithmetic Mean) against a "Weighted Feature" model. While weighting features by correlation altered results for 89% of players, the Baseline was selected for production to avoid overfitting to weak signals.
 
 **Tech Stack:** Python, Pandas, Scipy (Euclidean Distance), Matplotlib
-**📄 [Read my Case Study](https://github.com/ethancarter7/mlb_walkup_song_model/blob/main/write_up_ethan_carter.pdf)
+[Read my Case Study](https://github.com/ethancarter7/mlb_walkup_song_model/blob/main/write_up_ethan_carter.pdf)
+
 ---
 
 ## 🎓 University Coursework
